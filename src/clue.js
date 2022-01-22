@@ -92,6 +92,7 @@ const roomsArray = [
   {name: "Patio"}, //14 roomsArray.length = 15
 ];
 
+
 // Weapons Array
 
 const weaponsArray = [
